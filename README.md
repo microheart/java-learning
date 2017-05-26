@@ -1,4 +1,4 @@
-# 我的Java学习笔记
+# Java学习
 Java核心技术结合源码验证
 
 主要是对Java基础有更深入的认识，不仅仅是应用，而要结合源码和应用场景。
@@ -30,8 +30,7 @@ Java核心技术结合源码验证
 - [ExecutorServiceDemo](src/main/java/com/iknowers/learning/concurrent/ExecutorServiceDemo.java) 线程池应用
 - [MutexAQS](src/main/java/com/iknowers/learning/concurrent/MutexAQS.java) 基于AQS实现的互斥锁
 - [ReadWriteLockDemo](src/main/java/com/iknowers/learning/concurrent/ReadWriteLockDemo.java) 读写锁实例
-- [ReentrantLockDemo]- [](src/main/java/)
-(src/main/java/com/iknowers/learning/concurrent/ReentrantLockDemo.java) 重入锁实例
+- [ReentrantLockDemo](src/main/java/src/main/java/com/iknowers/learning/concurrent/ReentrantLockDemo.java) 重入锁实例
 - [ScheduledExecutorServiceDemo](src/main/java/com/iknowers/learning/concurrent/ScheduledExecutorServiceDemo.java) 调度服务
 - [ThreadLocalDemo](src/main/java/com/iknowers/learning/concurrent/ThreadLocalDemo.java) ThreadLocal实例
 - [UnsafeDemo](src/main/java/com/iknowers/learning/concurrent/UnsafeDemo.java) 通过反射获得Unsafe实例
