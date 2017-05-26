@@ -1,5 +1,10 @@
 package com.iknowers.learning.thread;
 
+/**
+ * Object#wait(timeout)测试
+ *
+ * @author Shun Xu
+ */
 public class WaitNotifyTimeoutDemo {
 
     public static void main(String[] args) {

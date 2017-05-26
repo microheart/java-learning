@@ -2,6 +2,8 @@ package com.iknowers.learning.concurrent;
 
 /**
  * ThreadLocal 案列，每个线程都有一个副本
+ *
+ * @author Shun Xu
  */
 public class ThreadLocalDemo {
 

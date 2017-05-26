@@ -3,15 +3,17 @@ package com.iknowers.learning.generic;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Class Test
+ *
+ * @author Shun Xu
+ */
 public class SimpleDemo {
     private static class A<T> {
         public  <T, S> void foo(S s, T t) {
             System.out.println(t);
             System.out.println(s);
         }
-
-
-
     }
 
     public static void main(String[] args) {

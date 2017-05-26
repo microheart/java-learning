@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * Java线程各个状态模拟
+ *
+ * @author Shun Xu
+ */
 public class ThreadStateDemo {
 
     private static Object lock = new Object();

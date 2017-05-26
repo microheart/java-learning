@@ -10,6 +10,12 @@ import java.util.concurrent.TimeUnit;
  * 不断创建和回收对象，观察GC
  *
  * 可通过-Xms, -Xmx等参数调节堆大小。
+ *
+ *  -XX:+PrintFlagsFinal -XX:+PrintGCDetails -XX:+PrintGCDateStamps -XX:+PrintGCTimeStamps -XX:+UseG1GC -Xloggc:g1-gc.log
+ *
+ * http://gceasy.io/ 可支持GC 日志文件分析
+ *
+ * @author Shun Xu
  */
 public class GCDemo implements Runnable {
 

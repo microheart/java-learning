@@ -4,6 +4,11 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
+/**
+ * JDK 动态代理
+ *
+ * @author Shun Xu
+ */
 public class JdkProxyDemo {
     interface Person {
         void eat(String food);

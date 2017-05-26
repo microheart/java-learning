@@ -2,6 +2,8 @@ package com.iknowers.learning.base;
 
 /**
  * finally 返回后，不会再执行try块中的返回语句。
+ *
+ * @author Shun Xu
  */
 public class FinallyReturnDemo {
 

@@ -5,6 +5,8 @@ import java.util.concurrent.TimeUnit;
 /**
  *
  * Class Monitor Lock 和 Class Object Monitor Lock 并不冲突，因为它们获取不同的监视锁。
+ *
+ * @author Shun Xu
  */
 public class DifferentMonitorDemo {
 

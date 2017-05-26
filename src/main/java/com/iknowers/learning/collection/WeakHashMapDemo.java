@@ -8,6 +8,8 @@ import java.util.WeakHashMap;
  * WeakHashMap 测试
  *
  * 若key没有被强引用，最终将被GC回收
+ *
+ * @author Shun Xu
  */
 public class WeakHashMapDemo {
 

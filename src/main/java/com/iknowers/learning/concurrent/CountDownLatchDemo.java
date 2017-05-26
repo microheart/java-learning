@@ -11,6 +11,8 @@ import java.util.concurrent.CountDownLatch;
  * 可以应用于：
  * 1. 资源的初始化
  * 2. 一个活动等待其他活动的准备
+ *
+ * @author Shun Xu
  */
 public class CountDownLatchDemo {
 

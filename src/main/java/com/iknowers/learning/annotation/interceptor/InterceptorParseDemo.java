@@ -7,6 +7,9 @@ import java.util.Map;
 /**
  *
  * 基于注解的拦截器实现
+ * 拦截器广泛应用于MVC框架
+ *
+ * @author Shun Xu
  */
 public class InterceptorParseDemo {
     private static final Interceptor[] NULL_INTERCEPTOR_ARRAY = new Interceptor[0];

@@ -7,6 +7,8 @@ import java.util.List;
  * 基于Object#wait(), notify()的生产者和消费者案例
  *
  * http://howtodoinjava.com/core-java/multi-threading/how-to-work-with-wait-notify-and-notifyall-in-java/
+ *
+ * @author Shun Xu
  */
 public class WaitNotifyDemo {
     public static void main(String[] args) {

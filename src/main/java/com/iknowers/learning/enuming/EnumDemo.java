@@ -2,6 +2,8 @@ package com.iknowers.learning.enuming;
 
 /**
  * 枚举案例
+ *
+ * @author Shun Xu
  */
 public enum  EnumDemo {
     MON, TUE, WED, THUR, FRIDAY, SATUR, SUNDAY;

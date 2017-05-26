@@ -13,6 +13,8 @@ import java.util.concurrent.TimeUnit;
  * 1. ScheduledExecutorService可以包含多个线程， Timer只有一个线程TimerThread
  * 2. 一旦抛出异常，Timer线程将结束
  * 3. 若任务执行时间长，Timer将会导致其他任务的延迟
+ *
+ * @author Shun Xu
  */
 public class ScheduledDemo {
     public static void main(String[] args) {

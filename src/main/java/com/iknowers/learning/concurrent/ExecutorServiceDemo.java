@@ -4,6 +4,8 @@ import java.util.concurrent.*;
 
 /**
  * 线程池的验证，观察核心线程数和最大线程数的状态
+ *
+ * @author Shun Xu
  */
 public class ExecutorServiceDemo {
 

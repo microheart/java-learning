@@ -8,7 +8,8 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
  * 读写锁实例，用于读多写少的场景
- * @param <E>
+ *
+ * @author Shun Xu
  */
 public class ReadWriteLockDemo<E> {
     private final ReadWriteLock readWriteLock = new ReentrantReadWriteLock(true);

@@ -8,6 +8,8 @@ import java.util.Map;
  * 1. final 修饰的变量是可以修改内容，但不能重新指向其它对象
  * 2. final 方法不能被覆盖
  * 3. final 类不能被继承，如java.lang.String
+ *
+ * @author Shun Xu
  */
 public class FinalDemo {
     public static void main(String[] args) {

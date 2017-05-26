@@ -3,6 +3,11 @@ package com.iknowers.learning.reflect;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
+/**
+ * Reflect demo of Array
+ *
+ * @author Shun Xu
+ */
 public class ArrayDemo {
 
     public static void main(String[] args) {

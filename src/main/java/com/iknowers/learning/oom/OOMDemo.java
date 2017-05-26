@@ -5,6 +5,8 @@ import java.util.Queue;
 
 /**
  * 触发OOM，并分析dump文件
+ *
+ * @author Shun Xu
  */
 public class OOMDemo {
 

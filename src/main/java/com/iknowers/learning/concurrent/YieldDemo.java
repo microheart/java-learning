@@ -2,6 +2,8 @@ package com.iknowers.learning.concurrent;
 
 /**
  * Thread.yield() 只有其他线程的优先级大于或者等于当前线程，才会让出CPU资源。
+ *
+ * @author Shun Xu
  */
 public class YieldDemo {
 

@@ -7,6 +7,8 @@ package com.iknowers.learning.base;
  * 可以使用-Xss参数设置线程栈的大小，如： -Xss2M
  *
  * 可通过jclasslib (https://github.com/ingokegel/jclasslib) 查看字节码及方法局部变量所占的空间
+ *
+ * @author Shun Xu
  */
 public class StackDeepDemo {
     private int level = 0;

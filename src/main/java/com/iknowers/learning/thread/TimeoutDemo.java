@@ -2,6 +2,11 @@ package com.iknowers.learning.thread;
 
 import java.util.concurrent.TimeUnit;
 
+/**
+ * 线程超时检验
+ *
+ * @author Shun Xu
+ */
 public class TimeoutDemo {
 
     public static void main(String[] args) {

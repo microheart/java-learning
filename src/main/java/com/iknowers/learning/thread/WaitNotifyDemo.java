@@ -1,5 +1,11 @@
 package com.iknowers.learning.thread;
 
+/**
+ * Object#wait(), Object#notify() 协作
+ * 若notify()或者notifyAll()先于wait()调用，wait()将一直阻塞
+ *
+ * @author Shun Xu
+ */
 public class WaitNotifyDemo {
 
     public static void main(String[] args) {

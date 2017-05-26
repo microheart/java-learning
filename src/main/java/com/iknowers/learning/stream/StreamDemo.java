@@ -6,6 +6,11 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
+/**
+ * 基于流的统计
+ *
+ * @author Shun Xu
+ */
 public class StreamDemo {
 
     public static void main(String[] args) {

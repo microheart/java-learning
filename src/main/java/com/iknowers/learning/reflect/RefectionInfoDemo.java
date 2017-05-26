@@ -6,6 +6,8 @@ import java.lang.reflect.*;
 
 /**
  * get constructors, methods and fields of a given class.
+ *
+ * @author Shun Xu
  */
 public class RefectionInfoDemo {
 

@@ -3,6 +3,11 @@ package com.iknowers.learning.thread;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * 线程中断状态测试
+ *
+ * @author Shun Xu
+ */
 public class WaitInterruptDemo {
 
     public static void main(String[] args) throws InterruptedException {

@@ -10,6 +10,8 @@ import java.util.concurrent.locks.ReentrantLock;
  * 一个简单的阻塞队列的实现，底层基于数组和Lock, Condition.
  *
  * @see java.util.concurrent.ArrayBlockingQueue
+ *
+ * @author Shun Xu
  */
 public class SimpleBlockingQueueDemo {
 

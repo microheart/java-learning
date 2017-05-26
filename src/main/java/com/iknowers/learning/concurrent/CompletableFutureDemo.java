@@ -7,6 +7,8 @@ import java.util.concurrent.CompletableFuture;
 
 /**
  * CompletableFuture 学习
+ *
+ * @author Shun Xu
  */
 public class CompletableFutureDemo {
 

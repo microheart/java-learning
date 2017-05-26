@@ -14,6 +14,8 @@ import java.util.concurrent.locks.Lock;
  *
  *  1. 互斥锁
  *  2. 加锁不可重入
+ *
+ * @author Shun Xu
  */
 public class MutexAQS implements Lock, Serializable {
     private final Sync sync = new Sync();

@@ -9,6 +9,8 @@ import java.util.concurrent.TimeUnit;
  * <p>
  * 当迭代器在遍历集合时，若其他线程对集合进行修改，将抛出ConcurrentModificationException
  * 其原理是迭代器的修改数量若和集合的修改数量不一致，则抛出异常，快速失败。
+ *
+ * @author Shun Xu
  */
 public class ConcurrentModificationExceptionDemo {
 

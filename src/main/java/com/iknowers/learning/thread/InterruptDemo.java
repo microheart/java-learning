@@ -3,11 +3,13 @@ package com.iknowers.learning.thread;
 import java.util.concurrent.TimeUnit;
 
 /**
- * 终端的捕获和处理
+ * 中断的捕获和处理
  *
  * 处理方式
  * 1. 捕获中断异常，然后设置中断标志
  * 2. 捕获，并在适当的时机重新抛出
+ *
+ * @author Shun Xu
  */
 public class InterruptDemo {
 

@@ -1,4 +1,4 @@
-package com.iknowers.learning.reference;
+package com.iknowers.learning.reflect;
 
 import java.lang.ref.PhantomReference;
 import java.lang.ref.ReferenceQueue;
@@ -7,6 +7,8 @@ import java.lang.ref.WeakReference;
 
 /**
  * 软引用，弱引用和虚引用测试
+ *
+ * @author Shun Xu
  */
 public class ReferenceDemo {
 

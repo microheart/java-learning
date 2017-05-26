@@ -7,6 +7,8 @@ import java.io.*;
  * 1. 自定义路径下查找自定义的class类文件
  * 2. 确保安全性：Java字节码很容易被反编译，对我们自己的要加载的类做特殊处理
  * 3. 实现类的热部署
+ *
+ * @author Shun Xu
  */
 public class PathClassLoaderDemo extends ClassLoader {
     private String classPath;

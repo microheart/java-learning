@@ -10,6 +10,8 @@ import java.time.Instant;
  *
  * 1. 获取对象字段的偏移量，在更新某一个对象时常用到与CAS结合。
  * 2. 分配对象空间，但不调用构造方法
+ *
+ * @author Shun Xu
  */
 public class UnsafeDemo {
 
