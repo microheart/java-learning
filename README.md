@@ -49,6 +49,7 @@ Java核心技术结合源码验证
 
 ### OOM
 - [OOMDemo](src/main/java/com/iknowers/learning/oom/OOMDemo.java) 触发OOM，通过Eclipse MAT分析dump分析Root Cause
+- [DirectMemoryOOMDemo](src/main/java/com/iknowers/learning/oom/DirectMemoryOOMDemo.java) 直接内存溢出
 
 ### 引用
 - [ReferenceDemo](src/main/java/com/iknowers/learning/reflect/ReferenceDemo.java) 软引用，弱引用和虚引用测试
