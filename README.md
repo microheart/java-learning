@@ -73,6 +73,7 @@ Java核心技术结合源码验证
 - [WaitInterruptDemo](src/main/java/com/iknowers/learning/thread/WaitInterruptDemo.java) 线程中断状态测试
 - [WaitNotifyDemo](src/main/java/com/iknowers/learning/thread/WaitNotifyDemo.java) Object#wait(), Object#notify() 协作
 - [WaitNotifyTimeoutDemo](src/main/java/com/iknowers/learning/thread/WaitNotifyTimeoutDemo.java) Object#wait(timeout)测试
+- [ThreadStackTraceDemo](src/main/java/com/iknowers/learning/thread/ThreadStackTraceDemo.java) 查看JVM线程栈
 
 
 持续更新中...

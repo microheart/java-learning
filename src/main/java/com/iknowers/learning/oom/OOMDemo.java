@@ -6,6 +6,8 @@ import java.util.Queue;
 /**
  * 触发OOM，并分析dump文件
  *
+ * VM options: -Xms10M -Xmx10M -XX:+HeapDumpOnOutOfMemoryError
+ *
  * @author Shun Xu
  */
 public class OOMDemo {
@@ -30,7 +32,7 @@ public class OOMDemo {
             //Thread.sleep(3_000);
             if (i % 100 == 0) {
                 System.out.println(i);
-                Thread.sleep(1_000);
+                //Thread.sleep(1_000);
             }
         }
     }
