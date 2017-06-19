@@ -51,13 +51,14 @@ Java核心技术结合源码验证
 - [OOMDemo](src/main/java/com/iknowers/learning/oom/OOMDemo.java) 触发OOM，通过Eclipse MAT分析dump分析Root Cause
 - [DirectMemoryOOMDemo](src/main/java/com/iknowers/learning/oom/DirectMemoryOOMDemo.java) 直接内存溢出
 
-### 引用
+### 反射
 - [ReferenceDemo](src/main/java/com/iknowers/learning/reflect/ReferenceDemo.java) 软引用，弱引用和虚引用测试
 - [ArrayDemo](src/main/java/com/iknowers/learning/reflect/ArrayDemo.java) Array反射
 - [ClassLoadDemo](src/main/java/com/iknowers/learning/reflect/ClassLoadDemo.java) 类加载测试
 - [ConstructorDemo](src/main/java/com/iknowers/learning/reflect/ConstructorDemo.java) Constructor反射
 - [FieldDemo](src/main/java/com/iknowers/learning/reflect/FieldDemo.java) Field反射
 - [JdkProxyDemo](src/main/java/com/iknowers/learning/reflect/JdkProxyDemo.java) JDK动态代理
+- [CglibProxyDemo](src/main/java/com/iknowers/learning/reflect/CglibProxyDemo.java) CGLIB动态代理
 - [MethodDemo](src/main/java/com/iknowers/learning/reflect/MethodDemo.java) Method反射
 - [PathClassLoaderDemo](src/main/java/com/iknowers/learning/reflect/PathClassLoaderDemo.java) 自定义类加载器
 - [RefectionInfoDemo](src/main/java/com/iknowers/learning/reflect/RefectionInfoDemo.java) 类反射信息查看

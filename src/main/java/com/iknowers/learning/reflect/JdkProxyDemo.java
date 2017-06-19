@@ -7,6 +7,8 @@ import java.lang.reflect.Proxy;
 /**
  * JDK 动态代理
  *
+ * 缺点：Proxy生成的动态代理类只能implements接口，不能extend实现类
+ *
  * @author Shun Xu
  */
 public class JdkProxyDemo {
