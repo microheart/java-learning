@@ -66,6 +66,7 @@ Java核心技术结合源码验证
 
 ### 流
 - [StreamDemo](src/main/java/com/iknowers/learning/stream/StreamDemo.java) 基于流的统计
+- [StreamMethodDemo](src/main/java/com/iknowers/learning/stream/StreamMethodDemo.java) 流方法练习
 
 ### 线程
 - [DifferentMonitorDemo](src/main/java/com/iknowers/learning/thread/DifferentMonitorDemo.java) 监视锁测试
