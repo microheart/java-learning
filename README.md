@@ -13,6 +13,7 @@ Java核心技术结合源码验证
 - [FinallyReturnDemo](src/main/java/com/iknowers/learning/base/FinallyReturnDemo/java) finally返回优先
 - [StackDeepDemo](src/main/java/com/iknowers/learning/base/StackDeepDemo/java) 测试栈的深度
 - [StringJoinDemo](src/main/java/com/iknowers/learning/base/StringJoinDemo/java) String#join()
+- [SingletonDemo](src/main/java/com/iknowers/learning/base/SingletonDemo.java) 基于静态内部类的单例
 
 ### 注解
 - [InterceptorParseDemo](src/main/java/com/iknowers/learning/annotation/interceptor/InterceptorParseDemo/java) 基于注解的拦截器实现
