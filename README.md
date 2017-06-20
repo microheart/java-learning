@@ -63,6 +63,7 @@ Java核心技术结合源码验证
 - [MethodDemo](src/main/java/com/iknowers/learning/reflect/MethodDemo.java) Method反射
 - [PathClassLoaderDemo](src/main/java/com/iknowers/learning/reflect/PathClassLoaderDemo.java) 自定义类加载器
 - [RefectionInfoDemo](src/main/java/com/iknowers/learning/reflect/RefectionInfoDemo.java) 类反射信息查看
+- [DynamicProxyPerformanceCompDemo](src/main/java/com/iknowers/learning/reflect/DynamicProxyPerformanceCompDemo.java) 动态代理性能比较
 
 ### 流
 - [StreamDemo](src/main/java/com/iknowers/learning/stream/StreamDemo.java) 基于流的统计
