@@ -23,6 +23,7 @@ Java核心技术结合源码验证
 - [MapDemo](src/main/java/com/iknowers/learning/collection/MapDemo.java) Map#computeIfAbsent() 测试
 - [SimpleBlockingQueueDemo](src/main/java/com/iknowers/learning/collection/SimpleBlockingQueueDemo.java)  一个简单的阻塞队列的实现
 - [WeakHashMapDemo](src/main/java/com/iknowers/learning/collection/WeakHashMapDemo.java) WeakHashMap 测试
+- [LinkedHashMapDemo](src/main/java/com/iknowers/learning/collection/LinkedHashMapDemo.java) LinkedHashMap 测试
 
 ### 并发
 - [CompletableFutureDemo](src/main/java/com/iknowers/learning/concurrent/CompletableFutureDemo.java) CompletableFuture
