@@ -15,6 +15,7 @@ Java核心技术结合源码验证
 - [StringJoinDemo](src/main/java/com/iknowers/learning/base/StringJoinDemo/java) String#join()
 - [SingletonDemo](src/main/java/com/iknowers/learning/base/SingletonDemo.java) 基于静态内部类的单例
 - [DefaultInterfaceDemo](src/main/java/com/iknowers/learning/base/DefaultInterfaceDemo.java) 接口默认方法测试
+- [IntegerCacheDemo](src/main/java/com/iknowers/learning/base/IntegerCacheDemo.java) IntegerCache对整数比较的影响
 
 ### 注解
 - [InterceptorParseDemo](src/main/java/com/iknowers/learning/annotation/interceptor/InterceptorParseDemo/java) 基于注解的拦截器实现
